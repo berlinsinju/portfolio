@@ -153,9 +153,9 @@ function Projects() {
             >
               {/* ================= PROJECT TOP ================= */}
 
-              <div className=" bg-[#F1EFE9] overflow-hidden">
+              <div className=" bg-[#F1EFE9] ">
                 {/* Decorative Project Title */}
-                <div className=" flex items-center justify-center">
+                <div className="">
                   <img
                     src={project.image}
                     alt={project.title}
