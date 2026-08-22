@@ -184,7 +184,7 @@ function Projects() {
 
               <div className="flex flex-col flex-1 p-6">
                 {/* Category */}
-                <p className="text-xs font-bold uppercase tracking-[0.15em] text-purple-500">
+                <p className="text-md font-bold uppercase tracking-[0.10em] text-black-500">
                   {project.title}
                 </p>
 
