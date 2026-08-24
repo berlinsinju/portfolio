@@ -47,7 +47,7 @@ function Header() {
           {/* Resume */}
           <li>
             <a
-              href="https://drive.google.com/file/d/1ngQTg6kDyy6OqJo5OigToCtCoWH1EPPW/view?usp=sharing"
+              href="https://drive.google.com/file/d/16OPaLngXiafR7VGNe1VmVUbh02ZgTo9l/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-purple-600 transition-colors duration-200"
@@ -134,7 +134,7 @@ function Header() {
           {/* Resume */}
           <li>
             <a
-              href="https://drive.google.com/file/d/1ngQTg6kDyy6OqJo5OigToCtCoWH1EPPW/view?usp=sharing"
+              href="https://drive.google.com/file/d/16OPaLngXiafR7VGNe1VmVUbh02ZgTo9l/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               onClick={closeMenu}
